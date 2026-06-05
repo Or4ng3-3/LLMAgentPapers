@@ -912,6 +912,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Jianda Du, Youran Sun, Haizhao Yang.* [[abs](https://arxiv.org/abs/2602.17607)], 2026.2
 
+14. **PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation**
+
+    *Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2606.05697)], 2026.6
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
