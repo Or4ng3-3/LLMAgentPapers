@@ -1016,6 +1016,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Haoyang Liu, Shuyu Chen, Ye Zhang, Haohan Wang.* [[abs](https://arxiv.org/abs/2406.15341)] [[code](https://github.com/Liu-Hy/GenoTEX)], 2024.6
 
+15. **PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting**
+
+    *Youran Sun\*, Xingyu Ren\*, Kejia Zhang, Xinpeng Liu, Jiaxuan Guo.* [[abs](https://arxiv.org/abs/2606.08878)], 2026.6
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
