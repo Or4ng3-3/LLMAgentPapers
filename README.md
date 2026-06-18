@@ -1080,6 +1080,8 @@ Must-read Papers on Large Language Model Agents.
 
 - **[MASEval](https://github.com/parameterlab/MASEval).** Evaluation harness for multi-agent systems. Enables full system-vs-system evaluations with pre-implemented benchmarks.
 
+- **[BGPT](https://bgpt.pro).** An evidence layer for RAG/agents that complements vector retrieval with structured appraisal fields (limitations, conflicts of interest, falsifiability) extracted from full-text papers. Exposes a REST endpoint and MCP SSE; pairs well with discovery tools like PubMed/arXiv MCP. [[demo](https://github.com/connerlambden/bgpt-mcp/blob/main/EVIDENCE_DEMO.md)]
+
 ---
 
 ## 🎉 Contribution
