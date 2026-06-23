@@ -97,6 +97,10 @@ Must-read Papers on Large Language Model Agents.
 9. **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
 
    *Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai.* [[abs](https://arxiv.org/abs/2509.02547)] [[code](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers)], 2025.9
+
+10. **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime**
+
+   *Chaoyue He, Xin Zhou, Di Wang, Hong Xu, Wei Liu, Chunyan Miao.* [[abs](https://www.preprints.org/manuscript/202603.1756/v2)], 2026.3
    
 ---
 
