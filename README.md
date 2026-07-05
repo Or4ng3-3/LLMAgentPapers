@@ -920,6 +920,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe.* [[abs](https://arxiv.org/abs/2606.05697)], 2026.6
 
+15. **Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy**
+
+    *Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, Kejia Zhang, Jianda Du, Haizhao Yang.* [[abs](https://arxiv.org/abs/2606.24177)] [[code](https://github.com/AutoResearch-Factory/Agon)], 2026.6
+
 ### 🖼️ Framework
 
 1. **Agents: An Open-source Framework for Autonomous Language Agents**
